@@ -1,0 +1,10 @@
+#include "sdt.h"
+#include <stdio.h>
+int main()
+{
+    int a,b;
+    printf("Enter integer a and integer b\n");
+    scanf("%d",&a );
+    scanf("%d",&b );
+    return 0;
+}
