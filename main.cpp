@@ -1,6 +1,7 @@
 #include "sdt.h"
 #include <stdio.h>
 int main()
+// ПРрограмма является учебной
 {
     int a,b;
     printf("Enter integer a and integer b\n");
