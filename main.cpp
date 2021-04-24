@@ -9,6 +9,6 @@ int main()
     scanf("%d",&b );
     printf("The result of a minus b is %d\n", a-b );
     printf("The result of a plus b is %d\n", a+b );
-    printf("The multiplication of a and b is %d\n", a*b );
+    printf("The division of a and b is %d\n", a/b );
     return 0;
 }
